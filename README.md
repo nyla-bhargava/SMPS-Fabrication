@@ -19,17 +19,11 @@ This project involved the complete design and fabrication of a Switched-Mode Pow
 2. PCB Layout & Routing
 3. PCB Fabrication
 4. Component Soldering
+5. Testing & Debugging
 
 ![KiCad 3D View(FRONT)](https://github.com/user-attachments/assets/74fafd06-185f-40be-87fe-63a92685cdc6)
 
 ![KiCad 3D View(BACK)](https://github.com/user-attachments/assets/f9b392b9-b52b-4a69-8cbc-900b0a02b4c2)
 
-
-
-
-5. Testing & Debugging
-Used a DC power supply to test various voltage levels.
-
-Checked output waveforms using an oscilloscope to verify proper switching.
-
-Used load testing to evaluate efficiency and thermal performance under different conditions.
+![Screenshot 2025-04-20 184424](https://github.com/user-attachments/assets/15e89492-c2b1-4c6c-bfa4-d1b62534c3e0)
+(PS. The transformor arrived late)
